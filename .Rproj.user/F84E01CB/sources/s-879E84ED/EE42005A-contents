@@ -1,0 +1,2 @@
+library(ncdf4)
+data.table(t(ncvar_get(nc_open('valuearray_2_2_2.nc'))))
