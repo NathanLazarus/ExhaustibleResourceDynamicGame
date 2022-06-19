@@ -12,3 +12,4 @@ WORKDIR /code
 RUN pip install --no-cache-dir numpy
 RUN pip install --no-cache-dir casadi
 RUN pip install --no-cache-dir netCDF4
+RUN pip install --no-cache-dir sympy

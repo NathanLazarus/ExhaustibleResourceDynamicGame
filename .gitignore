@@ -1,2 +1,5 @@
 NPSOL.f
 *.png
+.Rproj.user
+*.nc
+*.tar.gz
